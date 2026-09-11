@@ -4,6 +4,12 @@
 Computer Engineer (UTFSM) who thinks from the user's perspective, whether designing an interface, analyzing data, or building a full system. I enjoy working across the whole spectrum of software development and data analysis — especially where they intersect. Currently a Software Developer at SONDA Chile.
 
 ---
+## 📌 Featured Project
+
+### [Assertion — Plataforma de Diagnóstico de Errores de Programación](https://github.com/Cam1loadg/plataformaDiagnosticoIntroALaProgramacion)
+My undergraduate thesis project: a web platform where instructors run live diagnostic sessions, students answer a multiple-choice question bank designed to detect recurring conceptual misconceptions (not just wrong answers), and closing the room generates a pedagogical report — statistical and, optionally, AI-generated via the Anthropic API — on the errors detected. The bank covers 90 questions across 6 error categories, empirically validated against 1,000 posts from Harvard's CS50 forum and tested in real Intro to Programming classes at UTFSM.
+
+---
 
 ## 🎓 Education
 **Universidad Técnica Federico Santa María** — Ingeniería Civil Informática (2020 – 2026)
