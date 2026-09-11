@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 Computer Engineer (UTFSM) who thinks from the user's perspective, whether designing an interface, analyzing data, or building a full system. I enjoy working across the whole spectrum of software development and data analysis — especially where they intersect.
-- 💼 Working @ SONDA Chile as a Software Developer
+- 💼 Working at SONDA Chile as a Software Developer
 
 ---
 ## 📌 Featured Project
