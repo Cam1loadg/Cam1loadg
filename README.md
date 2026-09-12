@@ -11,7 +11,7 @@ Computer Engineer (UTFSM) who thinks from the user's perspective, whether design
 My undergraduate thesis project: a web platform where instructors run live diagnostic sessions, students answer a multiple-choice question bank designed to detect recurring conceptual misconceptions (not just wrong answers), and closing the room generates a pedagogical report — statistical and, optionally, AI-generated via the Anthropic API — on the errors detected. The bank covers 90 questions across 6 error categories, empirically validated against 1,000 posts from Harvard's CS50 forum and tested in real Intro to Programming classes at UTFSM.
 
 ### ShiftGuard — AI-Powered Nursing Shift Handoff Platform *(private repo)*
-🏆 1st place, Health & Wellness category, 33rd UTFSM Software Fair. As Product Owner, led a 5-person team building a mobile/web platform that automates nursing shift handoffs - continuous patient-data logging with AI-generated shift summaries - cutting documentation time by 30 minutes per shift. Validated directly with hospital nursing staff. Designed the UX in Figma and built the frontend in React/React Native.
+🏆 1st place, Health & Wellness category, 33rd UTFSM Software Fair. As Product Owner, I interviewed hospital nursing staff directly to define requirements and led a 5-person team building a mobile/web platform that automates nursing shift handoffs — continuous patient-data logging with AI-generated shift summaries — cutting documentation time by 30 minutes per shift. Validated the prototype with the same nursing staff. Designed the UX in Figma and built the frontend in React/React Native.
 
 ---
 
