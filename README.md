@@ -1,26 +1,26 @@
-# Hi, I'm Camilo! 👋
+# Hi, I'm Camilo! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> About Me
 Computer Engineer (UTFSM) who thinks from the user's perspective, whether designing an interface, analyzing data, or building a full system. I enjoy working across the whole spectrum of software development and data analysis.
-- 💼 Working at SONDA Chile as a Software Developer
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Working at SONDA Chile as a Software Developer
 
 ---
-## 📌 Featured Project
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Bear.png" alt="Bear" width="25" height="25" /> Featured Project
 
 ### [Assertion — Plataforma de Diagnóstico de Errores de Programación](https://github.com/Cam1loadg/plataformaDiagnosticoIntroALaProgramacion)
 My undergraduate thesis project: a web platform where instructors run live diagnostic sessions, students answer a multiple-choice question bank designed to detect recurring conceptual misconceptions (not just wrong answers), and closing the room generates a pedagogical report — statistical and, optionally, AI-generated via the Anthropic API — on the errors detected. The bank covers 90 questions across 6 error categories, empirically validated against 1,000 posts from Harvard's CS50 forum and tested in real Intro to Programming classes at UTFSM.
 
 ### ShiftGuard — AI-Powered Nursing Shift Handoff Platform *(private repo)*
-🏆 1st place, Health & Wellness category, 33rd UTFSM Software Fair. As Product Owner, I interviewed hospital nursing staff directly to define requirements and led a 5-person team building a mobile/web platform that automates nursing shift handoffs — continuous patient-data logging with AI-generated shift summaries — cutting documentation time by 30 minutes per shift. Validated the prototype with the same nursing staff. Designed the UX in Figma and built the frontend in React/React Native.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/1st%20Place%20Medal.png" alt="1st Place Medal" width="25" height="25" /> 1st place, Health & Wellness category, 33rd UTFSM Software Fair. As Product Owner, I interviewed hospital nursing staff directly to define requirements and led a 5-person team building a mobile/web platform that automates nursing shift handoffs — continuous patient-data logging with AI-generated shift summaries — cutting documentation time by 30 minutes per shift. Validated the prototype with the same nursing staff. Designed the UX in Figma and built the frontend in React/React Native.
 
 ---
 
-## 🎓 Education
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /> Education
 **Universidad Técnica Federico Santa María** — Ingeniería Civil Informática (2020 – 2026)
 
 ---
 
-## 🛠 Skills
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -33,5 +33,5 @@ My undergraduate thesis project: a web platform where instructors run live diagn
 
 ---
 
-## 🔗 Links
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Safety%20Pin.png" alt="Safety Pin" width="25" height="25" /> Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camil0-diaz/)
