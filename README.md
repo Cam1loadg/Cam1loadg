@@ -1,6 +1,6 @@
 # Hi, I'm Camilo! 👋
 
-## <img src="https://githubusercontent.com" width="40" height="40" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> About Me
 Computer Engineer (UTFSM) who thinks from the user's perspective, whether designing an interface, analyzing data, or building a full system. I enjoy working across the whole spectrum of software development and data analysis.
 - 💼 Working at SONDA Chile as a Software Developer
 
